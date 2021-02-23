@@ -81,4 +81,4 @@ describe('Google page', () => {
 Some more examples you can check at the project
 
 ## Thanks
-Thanks for informatio to [Oleksandr Khotemskyi](xotabu4.github.io) that I found at this [video](https://www.youtube.com/watch?v=UzdUu9QllK0&ab_channel=SeleniumCamp).
+Thanks for informatio to [Oleksandr Khotemskyi](https://xotabu4.github.io/) that I found at this [video](https://www.youtube.com/watch?v=UzdUu9QllK0&ab_channel=SeleniumCamp).
