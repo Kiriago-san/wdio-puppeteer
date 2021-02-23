@@ -1,6 +1,6 @@
 
 ## Setup
-Install the wdio and puppeteer using:
+Install the wdio and puppeteer in the folder with project using:
 ```terminal
 npm instal @wdio\cli
 npm i puppeteer
