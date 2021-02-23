@@ -78,3 +78,4 @@ describe('Google page', () => {
 })
 
 ```
+Some more examples you can check at the project
